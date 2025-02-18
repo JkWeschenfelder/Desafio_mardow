@@ -1,7 +1,7 @@
 ##Como Personalizar o GitHub: Dicas para Deixar seu Perfil Único##
 O GitHub é uma das plataformas mais utilizadas por desenvolvedores para armazenar, compartilhar e colaborar em projetos de código. Personalizar o perfil pode torná-lo mais atrativo, destacar suas habilidades e facilitar conexões com outros profissionais.
 
-1. O GitHub é uma das plataformas mais utilizadas por desenvolvedores para armazenar, compartilhar e colaborar em projetos de código. Personalizar o perfil pode torná-lo mais atrativo, destacar suas habilidades e facilitar conexões com outros profissionais.
+  1. O GitHub é uma das plataformas mais utilizadas por desenvolvedores para armazenar, compartilhar e colaborar em projetos de código. Personalizar o perfil pode torná-lo mais atrativo, destacar suas habilidades e facilitar conexões com outros profissionais.
 1. Personalizando o Perfil com um README
 Uma das maneiras mais eficazes de personalizar seu GitHub é adicionando um README ao perfil. Esse arquivo pode conter informações sobre você, seus prComo Personalizar o GitHub: Dicas para Deixar sojetos, habilidades e formas de contato. Para criar um README de perfil:
 
